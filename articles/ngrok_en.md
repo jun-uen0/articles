@@ -1,3 +1,5 @@
+Written with [Cameron Gibson](https://github.com/cgcamcam) 
+
 ### The goal of the article
 - Publish a website
 - Website page: Nginx Welcome page!」
@@ -9,14 +11,14 @@ Nginx 1.21.6
 Ngrok 3.0.2
 
 ### About Ngrok
-- A tool that makes specific port of local mahchine pablic on internet
+- A tool that makes specific port of local machine public on internet
 - Pricing: Free for personal use
 - Official website: https://ngrok.com/
 
 ### Make your local port public to internet 
 
 1. Create your ngrok account at [signup page](https://dashboard.ngrok.com/signup). Then check your email verification
-2. Install Ngrok folloing [download page]((https://ngrok.com/download)
+2. Install Ngrok following [download page]((https://ngrok.com/download)
 ```shell
 brew install ngrok/ngrok/ngrok
 ```
