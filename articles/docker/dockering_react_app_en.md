@@ -20,7 +20,7 @@ https://www.bacancytechnology.com/blog/dockerize-react-app
 ① Create React App following [official tutorial](https://reactjs.org/docs/create-a-new-react-app.html)  
 ② Run command below
 ```shell
-npx create-react-app <app name> # witch is going to be the folder name
+npx create-react-app <app name> # which is going to be the folder name
 cd <app name>
 npm start
 ```
@@ -30,7 +30,7 @@ Confirm you can see React app welcome page
 ④ Stop Running by Ctrl + C
 
 ## 2. Create Dockerfile, image and run the container
-① Create`Dockerfile` in root directory  
+① Create `Dockerfile` in root directory  
 And copy the code below 
 ```yml
 # Dockerfile
