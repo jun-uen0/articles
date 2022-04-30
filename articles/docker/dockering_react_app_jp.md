@@ -13,4 +13,9 @@ Docker version: 20.10.12
 
 ### 手順
 1. Reactアプリを作成する @todo: リアクトアプリの作成方法をまとめる
-2. Dockerfileを作成
+2. Dockerfileを作成&起動
+
+## 1. Reactアプリを作成
+
+
+## 2. Dockerfileを作成&起動
