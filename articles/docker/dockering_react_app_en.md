@@ -1,7 +1,7 @@
 # Dockerizing React App
 
 ### Versions
-Node version: v16.13.0  
+Node version: 16.13.0  
 Docker version: 20.10.12   
 
 ### Link
