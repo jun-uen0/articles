@@ -19,7 +19,8 @@ Ngrok 3.0.2
    brew install ngrok/ngrok/ngrok
    ```
 
-- Get authentication token and command to run at ]Ngrok console "Getting Started > setup & installation"](https://dashboard.ngrok.com/get-started/setup)
+- Get authentication token at [Ngrok console "Getting Started > setup & installation"](https://dashboard.ngrok.com/get-started/setup), then run the command on the page
+
    ```shell
    ngrok config add-authtoken <your authentication token>
    ```
@@ -36,4 +37,4 @@ Ngrok 3.0.2
    ngrok http 8080
    ```
 - Check "Forwarding URL" given
-- Acess to "Forwarding URL"
+- Access to "Forwarding URL"
