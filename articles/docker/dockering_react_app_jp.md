@@ -13,15 +13,15 @@ https://www.bacancytechnology.com/blog/dockerize-react-app
 
 
 ### 手順
-1. Reactアプリを作成する @todo: リアクトアプリの作成方法をまとめる
+1. Reactアプリを作成する
 2. Dockerfileを作成&起動
 
 ## 1. Reactアプリを作成
 ① [公式チュートリアル](https://ja.reactjs.org/docs/create-a-new-react-app.html)に従いReactアプリを作成   
 ② 下記コマンドを実行
-```
-npx create-react-app <アプリ名(フォルダ名)>
-cd my-app
+```shell
+npx create-react-app <アプリ名> # ※フォルダ名になります。
+cd <アプリ名>
 npm start
 ```
 ③ http://localhost:3000 にアクセスしReactアプリのウェルカムページが表示されることを確認
