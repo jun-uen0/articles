@@ -1,0 +1,3 @@
+- ECRログイン時とプッシュ時の権限エラー深堀り: 初心者はログインでしくじる。awsプロファイルの切り替え方法とawspについて記事を書く。
+- push_to_ecr_jpの英訳
+- run_nginx_container_jpの英訳
