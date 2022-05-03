@@ -1,5 +1,7 @@
 Written with [Cameron Gibson](https://github.com/cgcamcam) 
 
+# Pull Nginx image and run the container
+
 ## Versions
 OS: MacOS (intel chip)
 Docker version: 20.10.12  
