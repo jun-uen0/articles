@@ -91,8 +91,6 @@ docker run -p 3001:3000 <URI you copied at ECR console>
 ③ Confirm you successfully run the container
 Access to http://localhost:3001
 
-![localhost3001](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/322idyso3eoygfotnrm8.png)
-
 # Thank you
 I hope this helps.
 Thank you for reading.
