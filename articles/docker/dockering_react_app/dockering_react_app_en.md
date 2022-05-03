@@ -1,5 +1,7 @@
 # Dockerizing React App
 
+Written with [Cameron Gibson](https://github.com/cgcamcam) 
+
 ### Versions
 Node version: 16.13.0  
 Docker version: 20.10.12   
