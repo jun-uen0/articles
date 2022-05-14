@@ -26,7 +26,7 @@ Terminologies in ECS
 2. Select "Only net-working (Fargate)"
 3. Name cluster
 4. Create VPC (optional)
-5. "Create"
+5. Select "Create"
 
 ※ Wait 1 or 2 minutes.
 
@@ -48,7 +48,7 @@ Terminologies in ECS
 10. Create
 
 # 3 Create ECS Service
-> ECS Service is the collection of ECS Tasks and it's related to ALB and AutoScaling Group. ECS Service needs ECS Task when created, but it's technically not superordinate of ECS Task because you can assign ECS Task to ECS Cluster without Service setting.
+> ECS Service is the collection of ECS Tasks and it's related to ALB and AutoScaling Group. ECS Service needs ECS Task when created, but it's technically not a subordinate of ECS Task because you can assign ECS Task to ECS Cluster without Service setting.
 
 - Configure service
 1. Select "Cluster" at the ECS console
@@ -85,4 +85,4 @@ Terminologies in ECS
 
 Good job.
 Please make sure you deleted the cluster.
-It's better to delete any resources in AWS if you don't need to operate it for a long time or just created it for learning.
+It's better to delete any resources in AWS if you don't need to operate it for a long time or if you just created it for learning.
