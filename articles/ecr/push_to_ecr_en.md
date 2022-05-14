@@ -13,15 +13,15 @@ AWS ECR is a repository service like DockerHub.
 You can create your own repository, either public or private.
 
 # How to
-1. Prepare Docker image, check it on local
+1. Prepare Docker image, check it on local environment
 2. Push the image to ECR
-3. Pull ECR image and check it on local
+3. Pull ECR image and check it on local environment
 4. Delete ECR image
 
-# 1. Prepare Docker image, check it on local
+# 1. Prepare Docker image, check it on local enviroment
 Make sure you already have a Docker image to push it.
-If you're interested in React, take a look at this article: [Dockerizing React App](https://dev.to/jun_uen0/dockerizing-react-app-20gj)
-You don't have any images and just want to make a simple image, check it out: [Pull Nginx image and run the container](https://dev.to/jun_uen0/pull-nginx-image-and-run-the-container-4de8)
+If you're interested in React, take a look at this article: [Dockerizing React App](https://dev.to/jun_uen0/dockerizing-react-app-20gj).
+If you don't have any images and just want to make a simple image, check it out: [Pull Nginx image and run the container](https://dev.to/jun_uen0/pull-nginx-image-and-run-the-container-4de8)
 
 # 2. Push to AWS ECR
 ① Create your public image repository at [ECR console](https://console.aws.amazon.com/ecr/repositories)
@@ -35,7 +35,7 @@ aws ecr-public get-login-password --region <your region> | docker login --userna
 Login Succeeded
 ```
 
-※ Skip 2nd command, we already have the image on local.
+※ Skip 2nd command, we already have the image on local environment.
 
 ④ Copy & run the 3rd command, and tag your image to push to ECR
 ```shell
@@ -64,14 +64,14 @@ ca58f1c44290: Pushing [==================>                                ]  188
 b9fd5db9c9a6: Waiting 
 ```
 ⑥ Go back to ECR console
-Click your repository name and confirm you successfully push the image to ECR
+(add #7) Click your repository name and confirm you successfully pushed the image to ECR
 
-# 3. Pull ECR image and check it on local
+# 3. Pull ECR image and check it on local environment
 ① Delete the image you tagged
 ```shell
 docker rmi public.ecr.aws/~~~~~/<your ECR repository name>:latest
 ```
-② Copy the URI of the image you pushed at ECR console and pull the image
+② Copy the URI of the image you pushed at ECR console and pull the image.
 The image URI must be exactly the same, but it's better to know where you can check the image URI.
 
 ```shell
@@ -88,7 +88,7 @@ Status: Downloaded newer image for <URI you copied at ECR console>
 ```shell
 docker run -p 3001:3000 <URI you copied at ECR console>
 ```
-③ Confirm you successfully run the container
+③ Confirm you successfully ran the container
 Access to http://localhost:3001
 
 # Thank you

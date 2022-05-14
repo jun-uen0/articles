@@ -30,7 +30,7 @@ Listen Port: 3000, Forward to: 80
 ```shell
 docker run -p 3000:80 nginx
 ```
-② Confirm you successfully run the container
+② Confirm you successfully ran the container
 Access to http://localhost:3000/
 
 ## Thank you
