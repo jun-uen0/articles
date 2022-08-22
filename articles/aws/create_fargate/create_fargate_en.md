@@ -4,6 +4,7 @@
 If you don't have an image at ECR, please check this article and get it.
 [Push Docker image to AWS ECR](https://dev.to/jun_uen0/push-docker-image-to-aws-ecr-fb2)
 In this article, I use React app image.
+![top-page](https://raw.githubusercontent.com/cakecatz/garage/images/garage-screenshot-01.png)
 
 ## About ECS
 AWS Elastic Container Service 
