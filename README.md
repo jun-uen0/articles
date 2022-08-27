@@ -11,6 +11,6 @@ The blog's fetching contents from this repo.
 
 ### Creation rules
 Because I'm blogging with a full-scratched app with this repo with sensitive path logic, I have to follow with rules below.
-- English contents - {project_name}_en.md
-- Japanese contents - {project_name}_jp.md
-- If the content's dir has images, make 'img' dir and contain them in it.
+① English contents - {project_name}_en.md
+② Japanese contents - {project_name}_jp.md
+③ If the content's dir has images, make 'img' dir and contain them in it.
