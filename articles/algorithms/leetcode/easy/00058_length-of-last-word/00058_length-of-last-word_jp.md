@@ -54,7 +54,7 @@ len(s.split()[-1]) # 6 <- 解答
 ```
 
 ## 解答
-```
+```py
 class Solution:
   def lengthOfLastWord(self, s: str) -> int:
     return len(s.split()[-1])
