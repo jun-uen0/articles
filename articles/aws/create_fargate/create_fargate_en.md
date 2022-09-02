@@ -2,11 +2,12 @@
 
 ## Prepare Docker Image at ECR
 If you don't have an image at ECR, please check this article and get it.
+
 [Push Docker image to AWS ECR](https://dev.to/jun_uen0/push-docker-image-to-aws-ecr-fb2) @todo: changed url to blog link
 In this article, I use React app image.
-![top-page](https://raw.githubusercontent.com/jun-uen0/articles/main/articles/aws/create_fargate/img/01_ecs_console_empty.png)
 
 ## About ECS
+
 AWS Elastic Container Service 
 It's a highly scalable and fast container management service.
 
@@ -23,6 +24,7 @@ Terminologies in ECS
 
 # 1. Create ECS Cluster
 > ECS Cluster is a cluster of services that is EC3 instances. But no one can control the EC2 via SSH access because each EC2 instance is hidden.
+
 1. Select "Create Cluster" at the ECS console
 2. Select "Only net-working (Fargate)"
 3. Name cluster
