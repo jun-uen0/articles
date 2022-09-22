@@ -17,8 +17,8 @@ the decimal digits are truncated,
 and only the integer part of the result is returned.    
 
 訳：   
-負ではない整数`x`が渡されます。     
-`x`の平方根を求め、returnしてください。   
+負ではない整数xが渡されます。     
+xの平方根を求め、returnしてください。   
 戻り値は整数型なので、小数点以下は切り捨てられます。   
 
 truncate = 切り捨てる   
