@@ -25,7 +25,8 @@ Output: 2
 Example 2:
 Input: x = 8
 Output: 2
-Explanation: The square root of 8 is 2.82842..., and since the decimal part is truncated, 2 is returned.
+Explanation: The square root of 8 is 2.82842...,
+  and since the decimal part is truncated, 2 is returned.
 ```
 
 ## Solution
@@ -89,7 +90,8 @@ Return mid if square value of mid is less than x and square value of mid+1 is gr
 In this case, mid is the answer of the problem, so return mid.   
 
 The reason why you can get the square root of 10 by this calculation is that,   
-for example, if x is 10 and mid is 3, the condition expression of if statement is "9 (3 * 3) <= 10 <16 (4 * 4)".   
+for example, if x is 10 and mid is 3,   
+the condition expression of if statement is "9 (3 * 3) <= 10 <16 (4 * 4)".   
 The square root of 10 is 3.1622776601683795,   
 and the integer part of 3.1622776601683795 is 3, so return the value of mid, which is 3.   
 
