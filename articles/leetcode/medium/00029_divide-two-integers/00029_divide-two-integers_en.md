@@ -158,7 +158,8 @@ def divide_faster() -> int:
     temp = divisor_abs
     mul = 1
 
-    # Create a loop to process while dividend's absolute value is greater than or equal to temp
+    # Create a loop to process while dividend's absolute value is
+    # greater than or equal to temp
     while dividend_abs >= temp:
 ```
 
