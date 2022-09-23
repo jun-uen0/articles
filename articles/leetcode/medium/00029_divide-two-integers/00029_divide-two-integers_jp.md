@@ -78,7 +78,7 @@ def divide_faster() -> int:
 print(divide_faster()) # -3
 ```
 
-## 概要
+## 手順
 ① 基本ケースを考える   
 ② dividendとdivisorの絶対値を取得   
 ③ dividendの絶対値がdivisorの絶対値で割り切れる間、処理を行うループを作成   
