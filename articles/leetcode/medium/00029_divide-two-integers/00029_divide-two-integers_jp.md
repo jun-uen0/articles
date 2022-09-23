@@ -3,7 +3,12 @@
 https://leetcode.com/problems/divide-two-integers   
 難易度：中   
 
-今日はTimothy H Changさんの解答を参考にさせていただきました。   
+普段何気なく使う四則演算の一つ、割り算。   
+おさらいさせていただきたくと、割り算とは、ある数を別の数で「何回引けるか」という数とも言えます。   
+今回の問題は割り算を使わずに、ある数を別の数で割った結果を求める問題です。   
+単純にある数を別の数で引いていくと、計算量がO(n)になってしまうので、   
+割り算を使わずに、ある数を別の数で割った結果を求める方法を考えていきます。   
+今日はTimothy H Chang](https://www.youtube.com/user/timc3406)さんの解答を参考にさせていただきました。   
 
 参考のコード: [Leetcode - Divide Two Integers (Python)](https://www.youtube.com/watch?v=6kFp_s_UtPE)      
 
@@ -187,6 +192,8 @@ outputは最終的な解答になる。
 
 mul:   
 mulを2倍にする。   
+この値を使用することにより、何度もdivisorで引き算を行う必要がなくなる。   
+擬似的にdivisor〇〇回引いたよ、というカウントの指標となるため。
 mulの値は直接解答である商の値(絶対値)になる。   
 
 temp:   
