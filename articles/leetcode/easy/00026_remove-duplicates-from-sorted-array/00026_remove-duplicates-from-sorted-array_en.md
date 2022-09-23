@@ -8,7 +8,7 @@ I will explain my code.
 ※ You need to return the length of array k, not array itself.   
 ※ But you still have to operate array.   
 
-## 問題
+## Description
 Given an integer array nums sorted in non-decreasing order,   
 remove the duplicates in-place such that each unique element appears only once.   
 The relative order of the elements should be kept the same.   
@@ -24,7 +24,7 @@ It does not matter what you leave beyond the first k elements.
 Do not allocate extra space for another array.   
 You must do this by modifying the input array in-place with O(1) extra memory.   
 
-## Description
+## Solution
 ```python
 # If you want to run this code on your local machine, you need to import List.
 from typing import List
