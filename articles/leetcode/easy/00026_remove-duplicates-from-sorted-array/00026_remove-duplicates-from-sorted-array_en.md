@@ -1,15 +1,15 @@
 ## 26. Remove Duplicates from Sorted Array
-https://leetcode.com/problems/remove-duplicates-from-sorted-array
+https://leetcode.com/problems/remove-duplicates-from-sorted-array   
 Difficulty: Easy
 
-This is easy problem.
-Just remove duplicates from array. And the array is sorted.
-I will explain my code. 
-※ You need to return the length of array k, not array itself.
-※ But you still have to operate array.
+This is easy problem.   
+Just remove duplicates from array. And the array is sorted.   
+I will explain my code.   
+※ You need to return the length of array k, not array itself.   
+※ But you still have to operate array.   
 
 ## 問題
-Given an integer array nums sorted in non-decreasing order,
+Given an integer array nums sorted in non-decreasing order,   
 remove the duplicates in-place such that each unique element appears only once.   
 The relative order of the elements should be kept the same.   
 
@@ -41,17 +41,17 @@ def remove_duplicates(nums: List[int]):
 print(remove_duplicates(nums)) # 4
 ```
 ## Steps to solve
-① Make a variable to count the duplicates of each element
-② Create a loop
-③ Check if the element is duplicated with the left element, and operate the array
-Let's see the array operation in detail
-④ Return the answer
+① Make a variable to count the duplicates of each element   
+② Create a loop   
+③ Check if the element is duplicated with the left element, and operate the array   
+Let's see the array operation in detail   
+④ Return the answer   
 
 ## ① Make a variable to count the duplicates of each element
-Before executing the process in the loop,
-Prepare a variable to count the duplicates of each element.
+Before executing the process in the loop,   
+Prepare a variable to count the duplicates of each element.   
 
-d... duplicate
+d... duplicate   
 ```py
 def remove_duplicates(nums: List[int]):
 
@@ -70,9 +70,9 @@ def remove_duplicates(nums: List[int]):
 ```
 
 ## ③ Check if the element is duplicated with the left element, and operate the array
-Check if the element is duplicated with the left element.
-If it is duplicated, add 1 to the variable d that counts the duplicates.
-If it is not duplicated, shift the element to the left by the number of duplicates counted.
+Check if the element is duplicated with the left element.   
+If it is duplicated, add 1 to the variable d that counts the duplicates.   
+If it is not duplicated, shift the element to the left by the number of duplicates counted.   
 ```py
 def remove_duplicates(nums: List[int]):
   d = 0
@@ -146,10 +146,10 @@ else:
 ```
 
 ## ④ Return the answer
-Return the value of the length of the array minus the variable d that counts the duplicates.
-As mentioned at the beginning,
-In this answer, you need to return the number of elements you want to display.
-LeetCode will check the modified nums and determine whether it is correct or not.
+Return the value of the length of the array minus the variable d that counts the duplicates.   
+As mentioned at the beginning,   
+In this answer, you need to return the number of elements you want to display.   
+LeetCode will check the modified nums and determine whether it is correct or not.   
 
 ```py
 def remove_duplicates(nums: List[int]):
