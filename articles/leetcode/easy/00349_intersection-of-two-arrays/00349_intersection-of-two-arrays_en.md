@@ -30,9 +30,9 @@ def intersection(nums1, nums2):
 ```
 
 ## Step
-① Remove duplicates from list
-② Get the intersection of two sets
-③ Convert to list
+① Remove duplicates from list   
+② Get the intersection of two sets   
+③ Convert to list   
 
 ## ① Remove duplicates from list
 Remove duplicates from list using set()
