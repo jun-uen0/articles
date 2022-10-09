@@ -1,9 +1,9 @@
 ## 3. Longest Substring Without Repeating Characters
-URL: https://leetcode.com/problems/longest-substring-without-repeating-characters
-Difficulty: Medium
+URL: https://leetcode.com/problems/longest-substring-without-repeating-characters   
+Difficulty: Medium   
 
 ## Problem Statement
-Given a string, find the length of the longest substring without repeating characters.
+Given a string, find the length of the longest substring without repeating characters.   
 
 ## Example
 ```py
@@ -47,7 +47,7 @@ print(lengthOfLongestSubstring(s))
 ```
 
 ## ① Base Case
-Return 0 if the length of the string is 0.
+Return 0 if the length of the string is 0.   
 Return 1 if the length of the string is 1.
 ```py
 def lengthOfLongestSubstring(s: str):
@@ -79,7 +79,7 @@ def lengthOfLongestSubstring(s: str):
 ```
 
 ## ③ Count the length of the longest substring
-We can make a substring without duplication in each loop.
+We can make a substring without duplication in each loop.   
 Next, count the length of the substring in each loop.
 ```py
 def lengthOfLongestSubstring(s: str):

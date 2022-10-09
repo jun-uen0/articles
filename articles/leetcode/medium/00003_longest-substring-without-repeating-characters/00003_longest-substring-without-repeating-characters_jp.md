@@ -1,20 +1,20 @@
 ## 3. Longest Substring Without Repeating Characters
-URL: https://leetcode.com/problems/longest-substring-without-repeating-characters
-難易度：Medium
+URL: https://leetcode.com/problems/longest-substring-without-repeating-characters   
+難易度：Medium   
 
-5回もWAを出してしまいました。
-いくつかテストを通して満足し、コードの確認を行わず提出してしまったためです。
-実務で行うサーバーサイドのコーディングは人命や大きな金額に影響する場合があります。
-最後まで抜け目なく確認することが大切です。
-という自戒の念を抱くことができたことが大きな収穫でした。笑
-今回はMediumの割には問題がシンプルで、助かりました。
+5回もWAを出してしまいました。   
+いくつかテストを通して満足し、コードの確認を行わず提出してしまったためです。   
+実務で行うサーバーサイドのコーディングは人命や大きな金額に影響する場合があります。   
+最後まで抜け目なく確認することが大切です。   
+という自戒の念を抱くことができたことが大きな収穫でした。笑   
+今回はMediumの割には問題がシンプルで、助かりました。   
 
 ## 問題文
-Given a string, find the length of the longest substring without repeating characters.
-訳：文字列が与えられるので、重複しない最長の部分文字列の長さを求めてください。
+Given a string, find the length of the longest substring without repeating characters.   
+訳：文字列が与えられるので、重複しない最長の部分文字列の長さを求めてください。   
 
-substring: 連続する文字列
-subsequence: 連続しなくてもよい文字列
+substring: 連続する文字列   
+subsequence: 連続しなくてもよい文字列   
 
 ## 例
 ```py
@@ -63,7 +63,7 @@ print(lengthOfLongestSubstring(s))
 ```
 
 ## ① 基本ケース
-sが0の場合、0を返す
+sが0の場合、0を返す   
 sが1の場合、1を返す
 ```py
 def lengthOfLongestSubstring(s: str):
@@ -96,7 +96,7 @@ def lengthOfLongestSubstring(s: str):
 ```
 
 ## ③ 最長のsubstringの長さをカウントしていく
-②でループ毎に重複しないsubstringを作っていくことができた。
+②でループ毎に重複しないsubstringを作っていくことができた。   
 次にループ毎にその作ったsubstringの長さをカウントしていく。
 ```py
 def lengthOfLongestSubstring(s: str):
