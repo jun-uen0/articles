@@ -1,16 +1,21 @@
-## useState
+## State
+In React, state is a data that is stored in the component.   
+It is used to store data that changes over time. For example,
+if you want to store the number of times a button is clicked, you can use state.
 
-useState is a hook that lets we add a local state to our component.
-Where is state data? It is stored in the component's props.
-Which means we can not refer state from other components. But we can call the function (Ex. Example()) to use the state.
+## useState
+useState is a hook that lets we add a local state to our component.   
+Where is state data? It is stored in the component's props.   
+Which means we can not refer state from other components. But we can call the function (Ex. Example()) to use the state.   
 
 ## Simple useState
 
-useState has __only one argumemnt__, and it's the initial value of the state.
-For example, the simple code below, uesState has an argument `0`. So variable'count' has '0' as initial value.
+useState has __only one argumemnt__, and it's the initial value of the state.   
+For example, the simple code below, uesState has an argument `0`. So variable'count' has '0' as initial value.   
 
-You can declare different names to the state variables by using array destructuring. (`[count, setCount]`)
-It's very common to use 'set' as the name of the function that sets the state. If the first argument is 'name', then the second argument is 'setName'.
+You can declare different names to the state variables by using array destructuring. (`[count, setCount]`)   
+It's very common to use 'set' as the name of the function that sets the state.   
+If the first argument is 'name', then the second argument is 'setName'.   
 
 ~~~jsx
 import React, { useState } from 'react';
