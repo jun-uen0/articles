@@ -1,11 +1,11 @@
 ## Effects
-We can perform data fetching, subscripting, and manually changing DOM from React components.
-In React, we call these operation 'side-effects' or 'effects' in short.
-And we have to use useEffect to perform these side-effects.
+データの取得、購読、DOMの手動変更などをコンポーネントから行うことができます。   
+Reactでは、これらの操作を「副作用」と呼び、短く「エフェクト」と呼びます。   
+そして、これらの副作用を実行するためにはuseEffectを使用する必要があります。   
 
 ## useEffect
-Component below sets the title after React updates the DOM.
-You can see the title is updated after the component is mounted.
+下記のコンポーネントは、ReactがDOMを更新した後にタイトルを設定します。   
+コンポーネントがマウントされた後にタイトルが更新されていることがわかります。   
 
 ```jsx
 import React, { useEffect } from 'react';
@@ -26,7 +26,8 @@ function Example() {
 }
 ```
 
-You can "clean up" effects after running them.
+「クリーンアップ」は、実行後にエフェクトを行うことができます。   
+
 ```jsx
 useEffect(() => {
   ChatAPI.subscribeToFriendStatus(props.friend.id, handleStatusChange);
@@ -35,8 +36,8 @@ useEffect(() => {
   };
 })
 ```
+1つのコンポーネントでuseEffectを複数回使用することもできます。   
 
-You can also use useEffect multiple times in a component.
 ```jsx
 function FriendStatusWithCounter(props) {
   const [count, setCount] = useState(0);
@@ -58,8 +59,8 @@ function FriendStatusWithCounter(props) {
   // ...
 ```
 
-You can organize your code by using useEffect.
-If you do not use hooks, you have to split your code into multiple functions.
+useEffectを使用することで、コードを整理することができます。   
+useEffectを使用しない場合は、コードを複数の関数に分割する必要があります。   
 
-## Reference
+## 参照
 https://reactjs.org/docs/hooks-overview.html
