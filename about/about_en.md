@@ -11,7 +11,7 @@ Experienced in leading infrastructure projects and cross-functional team collabo
 
 ---
 
-## 🏢 Professional Experience
+## Professional Experience
 ### Data Engineer
 _August 2024 — Present_  
 - **Project:** Connected Car Data Processing (Automotive Industry)  
@@ -44,7 +44,7 @@ _August 2020 — October 2021_
 
 ---
 
-## 🛠️ Technologies and Skills
+## Technologies and Skills
 - **Cloud Platforms:** AWS, GCP  
 - **DevOps & Automation**  
 - **CI/CD:** GitLab CI/CD, GitHub Actions  
@@ -58,7 +58,7 @@ _August 2020 — October 2021_
 
 ---
 
-## 🎓 Licenses & Certifications
+## Licenses & Certifications
 - **AWS Certified Developer – Associate (DVA-C02)**  
 - **AWS Certified Cloud Practitioner (CLF-C01)**  
 - **Google IT Automation with Python (Coursera)**  
@@ -66,7 +66,7 @@ _August 2020 — October 2021_
 
 ---
 
-## 🔗 Links
+## Links
 - **LinkedIn:** [linkedin.com/in/jun-uen0](https://www.linkedin.com/in/jun-uen0)  
 - **GitHub:** [github.com/jun-uen0](https://github.com/jun-uen0)  
 - **LeetCode Profile:** [leetcode.com/u/jun-uen0](https://leetcode.com/u/jun-uen0)  
