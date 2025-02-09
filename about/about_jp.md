@@ -5,24 +5,21 @@
 ---
 
 ## 自己紹介
+CI/CD、IaC、自動化に精通。  
 AWSとクラウドインフラに関する4年以上の経験を持つDevOpsエンジニア。  
-CI/CD、IaC、自動化に精通し、デプロイ効率を70%向上。  
 GitLab CI/CD、Docker、Terraform、Bash、Pythonを活用し、  
 インフラプロジェクトのリードやクロスファンクショナルチームとの協業経験あり。
 
 ---
 
 ## 🏢 職務経歴
-
-### **デロイト**  
-**データエンジニア / スペシャリストシニア**  
+### データエンジニア
 _2024年8月 〜 現在_  
 - **プロジェクト:** コネクテッドカーのデータ処理（自動車業界）  
   - Java（Apache Beam）を用いたETLパイプラインを開発し、データ処理を60%改善。  
   - **使用技術:** GCP Dataflow, Cloud Spanner, BigQuery, Java, Apache Beam  
 
-### **デロイト**  
-**DevOpsエンジニア / スペシャリスト**  
+### DevOpsエンジニア
 _2023年2月 〜 2024年7月_  
 - **プロジェクト:** 銀行向けWebアプリのインフラ構築  
   - AWSベースのWebアプリ環境を構築し、6名のチームをリード。CI/CD自動化によりデプロイ効率を70%向上。  
@@ -30,8 +27,7 @@ _2023年2月 〜 2024年7月_
   - 監視システム（AWS CloudWatch, Lambda, SNS, JP1）を導入。  
   - **使用技術:** AWS ECS Fargate, ECR, RDS, Lambda, GitLab CI/CD, JP1, Bash, Python, Sitecore  
 
-### **StrategIT K.K**  
-**DevOpsエンジニア**  
+###  DevOpsエンジニア
 _2022年1月 〜 2023年1月_  
 - **プロジェクト:** AWSインフラ最適化 & 自動化  
   - EC2からECS Fargateへの移行を実施し、コストを30%削減。  
@@ -39,8 +35,7 @@ _2022年1月 〜 2023年1月_
   - CloudFormationによるIaC管理を確立し、設定の不整合を90%解消。  
   - **使用技術:** AWS ECS, ECR, CloudFormation, Docker, Bash, GitLab CI/CD  
 
-### **未来計画株式会社**  
-**システムエンジニア**  
+### システムエンジニア
 _2020年8月 〜 2021年10月_  
 - **プロジェクト:** フリート管理システム（外部・内部プラットフォーム）  
   - AWSベースのインフラ設計・構築（ECS, ECR）  

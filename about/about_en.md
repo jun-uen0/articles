@@ -5,24 +5,20 @@
 ---
 
 ## About Me
-DevOps Engineer with 4+ years of experience in AWS and cloud infrastructure.  
-Expert in CI/CD, IaC, and automation, improving deployment efficiency by 70%.  
+DevOps Engineer with 4+ years of experience in AWS and cloud infrastructure. Expert in CI/CD, IaC, and automation.
 Proficient in GitLab CI/CD, Docker, Terraform, Bash, and Python.  
 Experienced in leading infrastructure projects and cross-functional team collaboration.
 
 ---
 
 ## 🏢 Professional Experience
-
-### **Deloitte**  
-**Data Engineer / Specialist Senior**  
+### Data Engineer
 _August 2024 — Present_  
 - **Project:** Connected Car Data Processing (Automotive Industry)  
   - Developed ETL pipelines with Java (Apache Beam), improving data processing by 60%.  
   - **Technologies:** GCP Dataflow, Cloud Spanner, BigQuery, Java, Apache Beam  
 
-### **Deloitte**  
-**DevOps Engineer / Specialist**  
+### DevOps Engineer
 _February 2023 — July 2024_  
 - **Project:** Banking Web Application Infrastructure  
   - Led a 6-member team for AWS-based web app deployment, improving efficiency by 70% via CI/CD automation.  
@@ -30,8 +26,7 @@ _February 2023 — July 2024_
   - Set up monitoring (AWS CloudWatch, Lambda, SNS, JP1).  
   - **Technologies:** AWS ECS Fargate, ECR, RDS, Lambda, GitLab CI/CD, JP1, Bash, Python, Sitecore  
 
-### **StrategIT K.K**  
-**DevOps Engineer**  
+### DevOps Engineer
 _January 2022 — January 2023_  
 - **Project:** AWS Infrastructure Optimization & Automation  
   - Migrated EC2 to ECS Fargate, cutting costs by 30%.  
@@ -39,8 +34,7 @@ _January 2022 — January 2023_
   - Implemented IaC with CloudFormation, eliminating config drift by 90%.  
   - **Technologies:** AWS ECS, ECR, CloudFormation, Docker, Bash, GitLab CI/CD  
 
-### **Mirai Keikaku K.K.**  
-**System Engineer**  
+### System Engineer
 _August 2020 — October 2021_  
 - **Project:** Fleet Management System  
   - Designed AWS-based infrastructure for a commercial fleet management system.  
