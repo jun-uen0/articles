@@ -22,7 +22,7 @@ _August 2024 — Present_
   - **Technologies:** GCP Dataflow, Cloud Spanner, BigQuery, Java, Apache Beam  
 
 ### **Deloitte**  
-**Cloud Infrastructure Engineer / Specialist**  
+**DevOps Engineer / Specialist**  
 _February 2023 — July 2024_  
 - **Project:** Banking Web Application Infrastructure  
   - Led a 6-member team for AWS-based web app deployment, improving efficiency by 70% via CI/CD automation.  
@@ -73,6 +73,6 @@ _August 2020 — October 2021_
 ---
 
 ## 🔗 Links
-- **LinkedIn:** <a href="https://www.linkedin.com/in/jun-uen0" target="_blank" rel="noopener noreferrer">linkedin.com/in/jun-uen0</a>  
-- **GitHub:** <a href="https://github.com/jun-uen0" target="_blank" rel="noopener noreferrer">github.com/jun-uen0</a>  
-- **LeetCode Profile:** <a href="https://leetcode.com/u/jun-uen0" target="_blank" rel="noopener noreferrer">leetcode.com/u/jun-uen0</a>
+- **LinkedIn:** [linkedin.com/in/jun-uen0](https://www.linkedin.com/in/jun-uen0)  
+- **GitHub:** [github.com/jun-uen0](https://github.com/jun-uen0)  
+- **LeetCode Profile:** [leetcode.com/u/jun-uen0](https://leetcode.com/u/jun-uen0)  
