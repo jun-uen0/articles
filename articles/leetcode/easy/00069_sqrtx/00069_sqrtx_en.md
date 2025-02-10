@@ -3,7 +3,7 @@ https://leetcode.com/problems/sqrtx
 
 My answer was O(n), so the execution time was too long.   
 To reduce the time complexity to O(logn), I will explain the solution using binary search.   
-I want to improve my skill so that I can explain my answer someday.   
+I aim to improve my skills so that I can explain my solutions clearly in the future.   
 
 
 Reference Code: [Python binary search solution (O(lgn))](https://leetcode.com/problems/sqrtx/discuss/25061/Python-binary-search-solution-(O(lgn)))
