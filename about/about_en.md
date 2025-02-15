@@ -28,7 +28,7 @@ Set up monitoring (AWS CloudWatch, Lambda, SNS, JP1).
 
 ### DevOps Engineer
 _January 2022 — January 2023_  
-- **Project:** AWS Infrastructure Optimization & Automation  
+**Project:** AWS Infrastructure Optimization & Automation  
 Migrated EC2 to ECS Fargate, cutting costs by 30%.  
 Established CI/CD automation with GitLab, reducing manual deployments by 65%.  
 Implemented IaC with CloudFormation, eliminating config drift by 90%.  
@@ -36,7 +36,7 @@ Implemented IaC with CloudFormation, eliminating config drift by 90%.
 
 ### System Engineer
 _August 2020 — October 2021_  
-- **Project:** Fleet Management System  
+**Project:** Fleet Management System  
 Designed AWS-based infrastructure for a commercial fleet management system.  
 Created CI/CD pipeline with GitHub Actions, reducing deployment times by 50%.  
 Built internal web apps using Google Apps Script & REST APIs.  
@@ -53,7 +53,7 @@ Built internal web apps using Google Apps Script & REST APIs.
 - Bash, Python  
 - Node.js, Java  
 - Git, GitHub, GitLab 
-- **Team Management, Client facing**  
+- Team Management, Client facing  
 
 ---
 
