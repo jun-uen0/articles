@@ -15,59 +15,58 @@ GitLab CI/CD、Docker、Terraform、Bash、Pythonを活用し、
 ## 職務経歴
 ### データエンジニア
 _2024年8月 〜 現在_  
-- **プロジェクト:** コネクテッドカーのデータ処理（自動車業界）  
-  - Java（Apache Beam）を用いたETLパイプラインを開発し、データ処理を60%改善。  
-  - **使用技術:** GCP Dataflow, Cloud Spanner, BigQuery, Java, Apache Beam  
+**プロジェクト:** コネクテッドカーのデータ処理（自動車業界）  
+Java（Apache Beam）を用いたETLパイプライン開発
+**使用技術:** GCP Dataflow, Cloud Spanner, BigQuery, Java, Apache Beam  
 
 ### DevOpsエンジニア
 _2023年2月 〜 2024年7月_  
-- **プロジェクト:** 銀行向けWebアプリのインフラ構築  
-  - AWSベースのWebアプリ環境を構築し、6名のチームをリード。CI/CD自動化によりデプロイ効率を70%向上。  
-  - ECSを活用したマルチ環境デプロイを自動化し、手作業を80%削減。  
-  - 監視システム（AWS CloudWatch, Lambda, SNS, JP1）を導入。  
-  - **使用技術:** AWS ECS Fargate, ECR, RDS, Lambda, GitLab CI/CD, JP1, Bash, Python, Sitecore  
+**プロジェクト:** 銀行向けWebアプリのインフラ構築  
+AWSベースのインフラ環境を構築。CI/CD自動化によりデプロイ効率を向上。  
+ECSを活用したマルチ環境デプロイを自動化し、手作業を80%削減。  
+監視システム（AWS CloudWatch, Lambda, SNS, JP1）を導入。  
+**使用技術:** AWS ECS Fargate, ECR, RDS, Lambda, GitLab CI/CD, JP1, Bash, Python, Sitecore  
 
 ###  DevOpsエンジニア
 _2022年1月 〜 2023年1月_  
-- **プロジェクト:** AWSインフラ最適化 & 自動化  
-  - EC2からECS Fargateへの移行を実施し、コストを30%削減。  
-  - GitLabによるCI/CD自動化を導入し、手動デプロイ作業を65%削減。  
-  - CloudFormationによるIaC管理を確立し、設定の不整合を90%解消。  
-  - **使用技術:** AWS ECS, ECR, CloudFormation, Docker, Bash, GitLab CI/CD  
+**プロジェクト:** AWSインフラ最適化 & 自動化  
+EC2からECS Fargateへの移行を実施し、コストを削減。  
+GitLabによるCI/CD自動化を導入し、手動デプロイ作業を削減。  
+CloudFormationによるIaC管理を確立し、設定の不整合を解消。  
+**使用技術:** AWS ECS, ECR, CloudFormation, Docker, Bash, GitLab CI/CD  
 
 ### システムエンジニア
 _2020年8月 〜 2021年10月_  
-- **プロジェクト:** フリート管理システム（外部・内部プラットフォーム）  
-  - AWSベースのインフラ設計・構築（ECS, ECR）  
-  - GitHub Actionsを用いたCI/CDパイプラインを構築し、デプロイ時間を50%短縮。  
-  - Google Apps Scriptを活用し、SaaSのデータ連携を自動化。  
-  - **使用技術:** AWS ECS, ECR, Docker, GitHub Actions, Google Apps Script, REST API  
+**プロジェクト:** フリート管理システム（外部・内部プラットフォーム）  
+AWSベースのインフラ設計・構築（ECS, ECR）  
+GitHub Actionsを用いたCI/CDパイプラインを構築し、デプロイ時間を短縮。  
+Google Apps Scriptを活用し、SaaSのデータ連携を自動化。  
+**使用技術:** AWS ECS, ECR, Docker, GitHub Actions, Google Apps Script, REST API  
 
 ---
 
 ## 技術・スキル
-- **クラウド:** AWS, GCP  
-- **DevOps & 自動化**  
-- **CI/CD:** GitLab CI/CD, GitHub Actions  
-- **Infrastructure as Code (IaC):** Terraform, CloudFormation  
-- **コンテナ:** Docker, Kubernetes  
-- **監視ツール:** AWS CloudWatch, JP1  
-- **スクリプト:** Bash, Python  
-- **バージョン管理:** Git, GitHub, GitLab  
-- **プログラミング言語:** Java, Node.js, React.js  
-- **チームマネジメント & 育成**  
+- AWS, GCP  
+- GitLab CI/CD, GitHub Actions  
+- Terraform, CloudFormation  
+- Docker, Kubernetes  
+- AWS CloudWatch, JP1  
+- Bash, Python  
+- Node.js, Java  
+- Git, GitHub, GitLab  
+- チームマネジメント, 顧客折衝   
 
 ---
 
 ## 資格・認定
 - **AWS 認定デベロッパー – アソシエイト（DVA-C02）**  
 - **AWS 認定クラウドプラクティショナー（CLF-C01）**  
-- **Google IT Automation with Python（Coursera）**  
-- **TOEIC スコア: 740**  
+- **Google IT Automation with Python（Coursera）**    
+- **Orchestrating the Cloud with Kubernetes (AWS)**    
 
 ---
 
 ## リンク
-- **LinkedIn:** [linkedin.com/in/jun-uen0](https://www.linkedin.com/in/jun-uen0)  
-- **GitHub:** [github.com/jun-uen0](https://github.com/jun-uen0)  
-- **LeetCode Profile:** [leetcode.com/u/jun-uen0](https://leetcode.com/u/jun-uen0)   
+- **[LinkedIn](https://www.linkedin.com/in/jun-uen0)**  
+- **[GitHub](https://github.com/jun-uen0)**  
+- **[LeetCode](https://leetcode.com/u/jun-uen0)**   
