@@ -13,7 +13,7 @@ Experienced in leading infrastructure projects and cross-functional team collabo
 
 ## Professional Experience
 ### Data Engineer
-_August 2024 — Present_  
+_October 2024 — Present_  
 **Project:** Connected Car Data Processing (Automotive Industry)  
 Developed ETL pipelines with Java (Apache Beam), improving data processing by 60%.  
 **Technologies:** GCP Dataflow, Cloud Spanner, BigQuery, Java, Apache Beam  
@@ -58,10 +58,10 @@ Built internal web apps using Google Apps Script & REST APIs.
 ---
 
 ## Licenses & Certifications
-- **AWS Certified Developer – Associate (DVA-C02)**  
-- **AWS Certified Cloud Practitioner (CLF-C01)**  
-- **Google IT Automation with Python（Coursera）**  
-- **Orchestrating the Cloud with Kubernetes (AWS)**  
+- AWS Certified Developer – Associate (DVA-C02)  
+- AWS Certified Cloud Practitioner (CLF-C01)  
+- Google IT Automation with Python（Coursera）  
+- Orchestrating the Cloud with Kubernetes (AWS)  
 
 ---
 
