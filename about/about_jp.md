@@ -14,7 +14,7 @@ CI/CD、IaC、自動化に精通。インフラチームのリードや海外チ
 ### データエンジニア
 _2024年10月 〜 現在_  
 **プロジェクト:** コネクテッドカーのデータ処理（自動車業界）  
-Java（Apache Beam）を用いたETLパイプライン開発
+Java（Apache Beam）を用いたETLパイプライン開発   
 **使用技術:** GCP Dataflow, Cloud Spanner, BigQuery, Java, Apache Beam  
 
 ### DevOpsエンジニア
