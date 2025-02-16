@@ -13,31 +13,38 @@ CI/CD、IaC、自動化に精通。インフラチームのリードや海外チ
 ## 職務経歴
 ### データエンジニア
 _2024年10月 〜 現在_  
+<br/>
 
 **プロジェクト:** コネクテッドカーのデータ処理（自動車業界）  
 Java（Apache Beam）を用いたETLパイプライン開発
 **使用技術:** GCP Dataflow, Cloud Spanner, BigQuery, Java, Apache Beam  
+<br/>
 
 ### DevOpsエンジニア
 _2023年2月 〜 2024年9月_  
+<br/>
 
 **プロジェクト:** 銀行向けWebアプリのインフラ構築  
 AWSベースのインフラ環境を構築。CI/CD構築によりデプロイ効率を向上。  
 ECSを活用したマルチ環境デプロイを自動化し、手作業を削減。  
 監視システム（AWS CloudWatch, Lambda, SNS, JP1）を導入。  
 **使用技術:** AWS ECS Fargate, RDS, Lambda, GitLab CI/CD, JP1, Bash, Python, Sitecore  
+<br/>
 
 ###  DevOpsエンジニア
 _2022年1月 〜 2023年1月_  
+<br/>
 
 **プロジェクト:** AWSインフラ最適化 & 自動化  
 EC2からECS Fargateへの移行を実施し、コストを削減。  
 GitLabによるCI/CD自動化を導入し、手動デプロイ作業を削減。  
 CloudFormationによるIaC管理を確立し、設定の不整合を解消。  
 **使用技術:** AWS ECS, CloudFormation, Docker, Bash, GitLab CI/CD  
+<br/>
 
 ### システムエンジニア
 _2020年8月 〜 2021年10月_  
+<br/>
 
 **プロジェクト:** フリート管理システム（外部・内部プラットフォーム）  
 AWSベースのインフラ設計・構築（ECS）  
