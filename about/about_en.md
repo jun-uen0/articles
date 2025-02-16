@@ -12,10 +12,11 @@ Experienced in leading infrastructure projects and cross-functional team collabo
 ---
 
 ## Professional Experience
-### Data Engineer
-_October 2024 — Present_  
+### Data Engineer (October 2024 — Present)
 **Project:** Connected Car Data Processing (Automotive Industry)  
+
 Developed ETL pipelines with Java (Apache Beam), improving data processing by 60%.  
+
 **Technologies:** GCP Dataflow, Cloud Spanner, BigQuery, Java, Apache Beam  
 
 ### DevOps Engineer
