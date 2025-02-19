@@ -1,5 +1,4 @@
-
-## Binary Search (English)
+## Binary Search
 Binary search is an algorithm to check if a target number exists in a list.
 The time complexity of this algorithm is O(log N).
 

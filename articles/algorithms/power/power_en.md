@@ -1,4 +1,4 @@
-## **Exponential Function**
+## **Power**
 Let's implement an efficient power function using recursion in Python.  
 The original code is borrowed from *Algorithm Science: A Beginner's Guide* by Tetsuo Asano, P.70.  
 

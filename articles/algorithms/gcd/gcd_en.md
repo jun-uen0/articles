@@ -1,6 +1,4 @@
----
-
-## **Greatest Common Divisor**
+## Greatest Common Divisor
 Let's implement an efficient function to compute the greatest common divisor using recursion in Python.  
 The original code is borrowed from *Algorithm Science: A Beginner's Guide* by Tetsuo Asano, P.73.  
 In this code, we use the **Euclidean algorithm** to calculate the greatest common divisor in **O(log n) divisions**.  
