@@ -12,7 +12,7 @@ Experienced in leading infrastructure projects and cross-functional team collabo
 ---
 
 ## Professional Experience
-### Data Engineer (October 2024 — Present)
+### Data Engineer
 _October 2024 — Present_  
 
 **Project:** Connected Car Data Processing (Automotive Industry)  
