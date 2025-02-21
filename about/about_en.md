@@ -16,7 +16,7 @@ Experienced in leading infrastructure projects and cross-functional team collabo
 _October 2024 — Present_  
 
 **Project:** Connected Car Data Processing (Automotive Industry)  
-Developing ETL pipelines with Java (Apache Beam), enhancing data processing workflows.
+Developing ETL pipelines with Java (Apache Beam), enhancing data processing workflows.  
 **Technologies:** GCP Dataflow, Cloud Spanner, BigQuery, Java, Apache Beam  
 
 ### DevOps Engineer
