@@ -26,7 +26,7 @@ _February 2023 — July 2024_
 Improved deployment processes through GitLab CI/CD automation.  
 Coordinated with cross-functional teams to ensure alignment with the client’s requirements, facilitating weekly client reporting and issue resolution.  
 Spearheaded ECS-based deployment for frontend and backend applications, automating multi-environment deployments and reducing manual work.  
-Supported monitoring setup with JP1, using AWS CloudWatch, Lambda, and SNS to automate alerting and error notifications, providing troubleshooting for ongoing issues. 
+Supported monitoring setup with JP1, using AWS CloudWatch, Lambda, and SNS to automate alerting and error notifications, providing troubleshooting for ongoing issues.  
 **Technologies:** AWS ECS Fargate, ECR, RDS, Lambda, GitLab CI/CD, JP1, Bash, Python, Sitecore  
 
 ### DevOps Engineer
