@@ -1,6 +1,6 @@
 ## Personal Information
 📧 hello@junueno.dev  
-📍 Thailand🇹🇭 and Japan🇯🇵   
+📍 Bangkok, Thailand   
 
 ---
 
@@ -12,7 +12,7 @@ Experienced in leading infrastructure projects and cross-functional team collabo
 ---
 
 ## Experience
-### Data Engineer
+### # Data Engineer
 _October 2024 — Present_  
 
 **Project:** Connected Car Data Processing (Automotive Industry)  
@@ -23,7 +23,7 @@ Developing ETL pipelines with Java (Apache Beam), enhancing data processing work
 
 **Technologies:** GCP Dataflow, Cloud Spanner, BigQuery, Java, Apache Beam  
 
-### DevOps Engineer
+### # DevOps Engineer
 _February 2023 — July 2024_  
 
 **Project:** Banking Web Application Infrastructure  
@@ -37,7 +37,7 @@ Supported monitoring setup with JP1, using AWS CloudWatch, Lambda, and SNS to au
 
 **Technologies:** AWS ECS Fargate, ECR, RDS, Lambda, GitLab CI/CD, JP1, Bash, Python, Sitecore  
 
-### DevOps Engineer
+### # DevOps Engineer
 _January 2022 — January 2023_  
 
 **Project:** AWS Infrastructure Optimization & Automation  
@@ -50,7 +50,7 @@ Implemented IaC with CloudFormation, enabling single-source infrastructure manag
 
 **Technologies:** AWS ECS, ECR, CloudFormation, Docker, Bash, GitLab CI/CD  
 
-### System Engineer
+### # System Engineer
 _August 2020 — October 2021_  
 
 **Project:** Fleet Management System  

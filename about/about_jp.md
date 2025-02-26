@@ -1,6 +1,6 @@
 ## コンタクト、居住地
 📧 hello@junueno.dev  
-📍 タイ🇹🇭 / 日本🇯🇵  
+📍 タイ・バンコク  
 
 ---
 
@@ -11,7 +11,7 @@ CI/CD、IaC、自動化に精通。インフラチームのリードや海外チ
 ---
 
 ## 職務経歴
-### データエンジニア
+### # データエンジニア
 _2024年10月 〜 現在_  
 **プロジェクト:** コネクテッドカーのデータ処理（自動車業界）  
 
@@ -21,7 +21,7 @@ Java（Apache Beam）を用いたETLパイプライン開発
 
 **使用技術:** GCP Dataflow, Cloud Spanner, BigQuery, Java, Apache Beam  
 
-### DevOpsエンジニア
+### # DevOpsエンジニア
 _2023年2月 〜 2024年9月_  
 **プロジェクト:** 銀行向けWebアプリのインフラ構築  
 
@@ -33,7 +33,7 @@ ECSを活用したマルチ環境デプロイを自動化し、手作業を削�
 
 **使用技術:** AWS ECS Fargate, RDS, Lambda, GitLab CI/CD, JP1, Bash, Python, Sitecore  
 
-###  DevOpsエンジニア
+### # DevOpsエンジニア
 _2022年1月 〜 2023年1月_  
 **プロジェクト:** AWSインフラ最適化 & 自動化  
 
@@ -45,7 +45,7 @@ CloudFormationによるIaC管理を確立し、設定の不整合を解消。
 
 **使用技術:** AWS ECS, CloudFormation, Docker, Bash, GitLab CI/CD  
 
-### システムエンジニア
+### # システムエンジニア
 _2020年8月 〜 2021年10月_  
 **プロジェクト:** フリート管理システム（外部・内部プラットフォーム）  
 
