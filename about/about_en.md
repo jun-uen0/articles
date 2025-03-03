@@ -12,13 +12,26 @@ Experienced in leading infrastructure projects and cross-functional team collabo
 ---
 
 ## Experience
+### # SRE Engineer
+_March 2025 — Present_  
+
+**Project:** CRM System
+
+
+Infrastructure setup and optimization using AWS   
+Monitoring system implementation with Zabbix, Grafana, and Prometheus   
+Infrastructure as Code (IaC) management using Terraform   
+
+
+**Technologies:** AWS, Grafana, Prometheus, Zabbix, Terraform, Docker, GitHub Actions
+
 ### # Data Engineer
-_October 2024 — Present_  
+_October 2024 — February 2025_  
 
 **Project:** Connected Car Data Processing (Automotive Industry)  
 
 
-Developing ETL pipelines with Java (Apache Beam), enhancing data processing workflows.  
+Developed ETL pipelines with Java (Apache Beam), enhancing data processing workflows.  
 
 
 **Technologies:** GCP Dataflow, Cloud Spanner, BigQuery, Java, Apache Beam  

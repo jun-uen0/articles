@@ -11,8 +11,20 @@ CI/CD、IaC、自動化に精通。インフラチームのリードや海外チ
 ---
 
 ## 職務経歴
+### # SREエンジニア
+_2025年3月 〜 現在_  
+**Project:** CRMシステム    
+
+
+AWSを用いたインフラ構築、既存構成の最適化   
+Zabbix、Grafana、Prometheusを用いたモニタリングシステムの構築   
+Terraformを用いたIaCの構築   
+
+
+**使用技術:** AWS, Grafana, Prometheus, Zabbix, Terraform, Docker, GitHub Actions  
+
 ### # データエンジニア
-_2024年10月 〜 現在_  
+_2024年10月 〜 2025年2月_  
 **プロジェクト:** コネクテッドカーのデータ処理（自動車業界）  
 
 
