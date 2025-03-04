@@ -12,7 +12,7 @@ Experienced in leading infrastructure projects and cross-functional team collabo
 ---
 
 ## Experience
-### # SRE Engineer
+### # Site Reliability Engineer
 _March 2025 — Present_  
 
 **Project:** CRM System
