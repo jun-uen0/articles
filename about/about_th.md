@@ -13,14 +13,14 @@
 ---
 
 ## ประสบการณ์ทำงาน
-### # วิศวกร SRE
+### # วิศวกร Site Reliability Engineer
 _มีนาคม 2025 – ปัจจุบัน_　　
 
 **โครงการ:** ระบบ CRM　　
 
-สร้างและปรับปรุงโครงสร้างพื้นฐานโดยใช้ AWS　　
-สร้างระบบมอนิเตอร์โดยใช้ Zabbix, Grafana และ Prometheus　　
-จัดการโครงสร้างพื้นฐานเป็นโค้ด (IaC) โดยใช้ Terraform　　
+- สร้างและปรับปรุงโครงสร้างพื้นฐานโดยใช้ AWS<br>
+- สร้างระบบมอนิเตอร์โดยใช้ Zabbix, Grafana และ Prometheus<br>
+- จัดการโครงสร้างพื้นฐานเป็นโค้ด (IaC) โดยใช้ Terraform<br>
 
 
 **เทคโนโลยี:** AWS, Grafana, Prometheus, Zabbix, Terraform, Docker, GitHub Actions　　
@@ -31,7 +31,7 @@ _ตุลาคม 2024 — กุมภาพันธ์ 2025_  　
 
 **โครงการ:** ระบบประมวลผลข้อมูลรถยนต์ที่เชื่อมต่อ (อุตสาหกรรมยานยนต์)  
 
-พัฒนา ETL Pipeline ด้วย Java (Apache Beam) และปรับปรุงเวิร์กโฟลว์การประมวลผลข้อมูล  
+- พัฒนา ETL Pipeline ด้วย Java (Apache Beam) และปรับปรุงเวิร์กโฟลว์การประมวลผลข้อมูล  
 
 **เทคโนโลยี:** GCP Dataflow, Cloud Spanner, BigQuery, Java, Apache Beam  
 

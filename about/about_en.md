@@ -18,9 +18,9 @@ _March 2025 — Present_
 **Project:** CRM System
 
 
-Infrastructure setup and optimization using AWS   
-Monitoring system implementation with Zabbix, Grafana, and Prometheus   
-Infrastructure as Code (IaC) management using Terraform   
+- Infrastructure setup and optimization using AWS   
+- Monitoring system implementation with Zabbix, Grafana, and Prometheus   
+- Infrastructure as Code (IaC) management using Terraform   
 
 
 **Technologies:** AWS, Grafana, Prometheus, Zabbix, Terraform, Docker, GitHub Actions
@@ -31,21 +31,21 @@ _October 2024 — February 2025_
 **Project:** Connected Car Data Processing (Automotive Industry)  
 
 
-Developed ETL pipelines with Java (Apache Beam), enhancing data processing workflows.  
+- Developed ETL pipelines with Java (Apache Beam), enhancing data processing workflows.  
 
 
 **Technologies:** GCP Dataflow, Cloud Spanner, BigQuery, Java, Apache Beam  
 
 ### # DevOps Engineer
-_February 2023 — July 2024_  
+_February 2023 — September 2024_  
 
 **Project:** Banking Web Application Infrastructure  
 
 
-Improved deployment processes through GitLab CI/CD automation.  
-Coordinated with cross-functional teams to ensure alignment with the client’s requirements, facilitating weekly client reporting and issue resolution.  
-Spearheaded ECS-based deployment for frontend and backend applications, automating multi-environment deployments and reducing manual work.  
-Supported monitoring setup with JP1, using AWS CloudWatch, Lambda, and SNS to automate alerting and error notifications, providing troubleshooting for ongoing issues.  
+- Improved deployment processes through GitLab CI/CD automation.  
+- Coordinated with cross-functional teams to ensure alignment with the client’s requirements, facilitating weekly client reporting and issue resolution.  
+- Spearheaded ECS-based deployment for frontend and backend applications, automating multi-environment deployments and reducing manual work.  
+- Supported monitoring setup with JP1, using AWS CloudWatch, Lambda, and SNS to automate alerting and error notifications, providing troubleshooting for ongoing issues.  
 
 
 **Technologies:** AWS ECS Fargate, ECR, RDS, Lambda, GitLab CI/CD, JP1, Bash, Python, Sitecore  
@@ -56,9 +56,9 @@ _January 2022 — January 2023_
 **Project:** AWS Infrastructure Optimization & Automation  
 
 
-Migrated existing infrastructure from EC2 to ECS Fargate, achieving approximately 30% cost savings through optimized resource usage.  
-Established CI/CD automation with GitLab CI/CD, reducing manual deployment.  
-Implemented IaC with CloudFormation, enabling single-source infrastructure management and eliminating configuration drift by over 90%.  
+- Migrated existing infrastructure from EC2 to ECS Fargate, achieving approximately 30% cost savings through optimized resource usage.  
+- Established CI/CD automation with GitLab CI/CD, reducing manual deployment.  
+- Implemented IaC with CloudFormation, enabling single-source infrastructure management and eliminating configuration drift by over 90%.  
 
 
 **Technologies:** AWS ECS, ECR, CloudFormation, Docker, Bash, GitLab CI/CD  
@@ -69,9 +69,9 @@ _August 2020 — October 2021_
 **Project:** Fleet Management System  
 
 
-Designed AWS-based infrastructure for a commercial fleet management system, deploying on ECS and ECR.  
-Created CI/CD pipeline with GitHub Actions, reducing deployment times.  
-Built an internal web application with Google Apps Script to digitize operational workflows, using REST APIs for SaaS data integration.  
+- Designed AWS-based infrastructure for a commercial fleet management system, deploying on ECS and ECR.  
+- Created CI/CD pipeline with GitHub Actions, reducing deployment times.  
+- Built an internal web application with Google Apps Script to digitize operational workflows, using REST APIs for SaaS data integration.  
 
 
 **Technologies:** AWS ECS, ECR, Docker, GitHub Actions, Google Apps Script, REST API  
