@@ -1,10 +1,11 @@
 # Segment Tree
 ## Introduction
 Segment Tree is an efficient tree data structure for dynamic range queries.
-That is the reason why its name is "Segment" Tree.
-The arrary is recursively diveided into two segments until the segment size is 1.
-The concept of dividing into segments sounds like binary search method.
-Trade-offs: It uses many memory.
+This is why it is called a "Segment Tree."
+The array is recursively divided into two segments until the segment size is 1.
+The concept of dividing into segments is similar to the binary search method.
+
+**Trade-off:** It uses a lot of memory.
 
 ## How to implement
 Example: finding the maximum value of range
@@ -19,7 +20,7 @@ class SegmentTree:
             self.tree_size *= 2
 
         # Create the data set
-        # Space complexity: 0(2n)
+        # Space complexity: O(2n)
         self.data = [self.init_value] * (2 * self.tree_size)
 
         # Build the segment tree
@@ -42,7 +43,6 @@ class SegmentTree:
             node = parent
 
     def range_max(self, left, right):
-
         # Base case: left must be smaller than right
         if left > right:
             return float("-inf")
@@ -84,30 +84,23 @@ print(seg_tree.range_max(2, 2))  # Should return 4
 print(seg_tree.range_max(3, 7))  # Should return 5
 
 ```
-## When should it be used
-- When we want to need answer of range queries with efficient way
-- And also, update the element dynamically
+## When should it be used?
+- When we need efficient answers for range queries.
+- When we need to update elements dynamically.
 
 ## How can this be applied to real-world problems?
-- Stock market analysis
-- Big data queries
+- Stock Market Analysis: Finding max/min prices in a time range.
+- Big Data Queries: Efficient range-based calculations.
 
 ## How does it compare with alternative approaches?
-Segment Tree vs. Fenwick Tree:
-- Fenwick Tree is more simple. But it doesn't support dynamic updating.
+### Segment Tree vs. Fenwick Tree:
+- Fenwick Tree (BIT) is simpler but doesn’t support range updates efficiently.
+- Segment Tree supports complex queries (max/min/sum/gcd, etc.).
 
-Segment Tree vs. Sparse Table:
-- Sparse Table is faster than Segement Tree. 0(1) vs. 0(log n)
-- But Sparse Table support only static arrays.
+### Segment Tree vs. Sparse Table:
+- Sparse Table is faster for queries (O(1) vs. O(log n)).
+- But it only works for static data (no updates).
 
 ## When should I not use this algorithm?
-- Since Segment Tree use 0(2n) space complexity, I should not use it if I don't have memory enough.
-- If the element is not updated frequently, we should use the built-in method like max(). max() use only 0(n) space complexity.
-
-
-# AVL Tree
-
-# Applications (Real-World Use Cases)
-## How can this be applied to real-world problems?
-## How does it compare with alternative approaches?
-## When should I not use this algorithm?
+- High memory usage (O(2n)): Avoid if memory is limited.
+- If updates are rare: Just use max() in Python (O(n)) instead of building a Segment Tree.
