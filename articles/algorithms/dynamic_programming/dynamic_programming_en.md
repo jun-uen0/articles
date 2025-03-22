@@ -186,12 +186,7 @@ There are also more advanced applications like:
 
 ## How does it compare with alternative approaches?
 
-| Approach            | Time | Space | Notes                          |
-|---------------------|------|-------|--------------------------------|
-| Naive Recursion     | O(2ⁿ) | O(n)  | Easy to write, super slow     |
-| Memoization         | O(n)  | O(n)  | Fast, readable, recursive     |
-| Bottom-Up (Tabulation) | O(n)  | O(n)  | Faster, iterative             |
-| Bottom-Up Optimized | O(n)  | O(1)  | Fastest, least memory usage   |
+<img width="591" alt="Screenshot 2025-03-22 at 17 10 05" src="https://github.com/user-attachments/assets/5a68a04f-eaae-48c1-b8a5-c1bb438a5179" />
 
 ---
 
