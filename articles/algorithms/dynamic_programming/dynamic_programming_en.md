@@ -184,12 +184,6 @@ There are also more advanced applications like:
 
 ---
 
-## How does it compare with alternative approaches?
-
-<img width="591" alt="Screenshot 2025-03-22 at 17 10 05" src="https://github.com/user-attachments/assets/5a68a04f-eaae-48c1-b8a5-c1bb438a5179" />
-
----
-
 ## When should I **not** use DP?
 
 - If the problem has **no overlapping subproblems**
