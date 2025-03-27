@@ -150,6 +150,54 @@ Now we store all values in an array, which takes **O(n)** space.
 
 ---
 
+## 2D DP Table (Tabulation) | Time: O(m × n), Space: O(m × n)
+
+2D DP Table (Tabulation) | Time: O(m × n), Space: O(m × n)
+When solving problems involving two inputs (like two strings), we often use a 2D DP table to store the solutions to subproblems. Each cell dp[i][j] stores the result of solving the problem for the first i characters of text1 and the first j characters of text2.
+
+A classic example is the Longest Common Subsequence:
+
+```py
+def longestCommonSubsequence(text1, text2):
+    m, n = len(text1), len(text2)
+    
+    # Create a (m+1) x (n+1) DP table initialized with 0
+    dp = [[0] * (n + 1) for _ in range(m + 1)]
+
+    # Build the table from top-left to bottom-right
+    for i in range(1, m + 1):
+        for j in range(1, n + 1):
+            if text1[i - 1] == text2[j - 1]:
+                dp[i][j] = 1 + dp[i - 1][j - 1]  # characters match
+            else:
+                dp[i][j] = max(dp[i - 1][j], dp[i][j - 1])  # carry forward the max
+
+    return dp[m][n]  # bottom-right cell has the final result
+```
+
+- dp[i][j] means: the length of the LCS between text1[:i] and text2[:j]
+- We initialize the table with an extra row and column to handle base cases (i == 0 or j == 0)
+- If characters match, we move diagonally.
+- If not, we take the best result from the left or top.
+
+Visualization:
+
+```
+    ""  a  c  b  e
+""  0  0  0  0  0
+a   0  1  1  1  1
+b   0  1  1  2  2
+c   0  1  2  2  2
+```
+
+This approach is very powerful and can be extended to:
+
+- Edit Distance
+- Knapsack Problems
+- Palindrome Substrings
+
+---
+
 ## Summary
 
 Dynamic Programming is a powerful technique for solving problems efficiently — especially when the problem has:
@@ -161,6 +209,7 @@ There are many ways to implement it:
 - Top-down with memoization (fast, readable)
 - Bottom-up (faster, less memory)
 - Bottom-up optimized (O(1) space!)
+- 2D DP Table (Tabulation) (powerful for two inputs)
 
 It depends on **what you want to get**: just the final result? All intermediate values?  
 Pick the approach that fits your case.
@@ -181,6 +230,9 @@ There are also more advanced applications like:
 - Optimizing stock profits, budgeting, and scheduling
 - Predictive text algorithms (e.g. edit distance for spelling correction)
 - Game AI — finding optimal moves
+- DNA sequence alignment
+- Image compression
+- Text segmentation
 
 ---
 
@@ -192,6 +244,7 @@ There are also more advanced applications like:
 | Memoization         | O(n)  | O(n)  | Fast, readable, recursive     |
 | Bottom-Up (Tabulation) | O(n)  | O(n)  | Faster, iterative             |
 | Bottom-Up Optimized | O(n)  | O(1)  | Fastest, least memory usage   |
+| 2D DP Table (Tabulation) | O(m × n) | O(m × n) | Powerful for two inputs      |
 
 ---
 
