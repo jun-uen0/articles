@@ -5,8 +5,8 @@
 ---
 
 ## About Me
-DevOps Engineer with 4+ years of experience in AWS and cloud infrastructure. Expert in CI/CD, IaC, and automation.
-Proficient in GitLab CI/CD, Docker, Terraform, Bash, and Python.  
+Site Reliability Engineer with 4+ years of experience in AWS and cloud infrastructure. Expert in CI/CD, IaC, and automation.
+Proficient in GitLab CI/CD, Docker, Terraform, Ansible, Bash, and Python.  
 Experienced in leading infrastructure projects and cross-functional team collaboration.
 
 ---
@@ -21,9 +21,10 @@ _March 2025 — Present_
 - Infrastructure setup and optimization using AWS   
 - Monitoring system implementation with Zabbix, Grafana, and Prometheus   
 - Infrastructure as Code (IaC) management using Terraform   
+- Automation of web server setup using Ansible  
 
 
-**Technologies:** AWS, Grafana, Prometheus, Zabbix, Terraform, Docker, GitHub Actions
+**Technologies:** AWS, Grafana, Prometheus, Zabbix, Terraform, Ansible, Docker
 
 ### # Data Engineer
 _October 2024 — February 2025_  
