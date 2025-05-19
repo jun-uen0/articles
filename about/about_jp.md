@@ -5,8 +5,9 @@
 ---
 
 ## 自己紹介  
-AWSとクラウドインフラに関する4年以上の経験を持つDevOpsエンジニア。  
-CI/CD、IaC、自動化に精通。インフラチームのリードや海外チームとの協業経験あり。   
+AWSとクラウドインフラに関する4年以上の経験を持つSREエンジニア。  
+CI/CD、IaC、自動化に精通。GitLab CI/CD、Docker、Terraform、Ansible、Bash、Pythonに精通。  
+インフラプロジェクトのリードや海外チームとの協業経験あり。   
 
 ---
 
@@ -19,9 +20,10 @@ _2025年3月 〜 現在_
 AWSを用いたインフラ構築、既存構成の最適化   
 Zabbix、Grafana、Prometheusを用いたモニタリングシステムの構築   
 Terraformを用いたIaCの構築   
+Ansibleを用いたWebサーバー構築の自動化   
 
 
-**使用技術:** AWS, Grafana, Prometheus, Zabbix, Terraform, Docker, GitHub Actions  
+**使用技術:** AWS, Grafana, Prometheus, Zabbix, Terraform, Ansible, Docker  
 
 ### # データエンジニア
 _2024年10月 〜 2025年2月_  
